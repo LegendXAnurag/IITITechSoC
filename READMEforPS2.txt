@@ -1,6 +1,9 @@
-##In the very beginning, run the Reset.py file to set the sample data
+##Files for PS2 in this Repo: Reset.py, Function.py, Arol.py, READMEforPS2.txt
+##In the very beginning, run the Reset.py file to set the sample data and create the data files
 ##To run code, tun Arol.py
+##To check the sample usernames, check the Student.txt and Admin.txt file
 ##Default password of every account in sample data is "abc"
+##Sample Data contains: Course Already Set, some admin accounts, some student accounts and grades of some students entered.
 ##To exit code anytime, type "exit" in any of the input
 ##Run the Reset.py file to remove or add the sample data, or to only remove the course set status and students grades 
 >Files: Arol.py, Function.py, Reset.py, Student.txt, Admin.txt, Course.txt, Grades.bin
